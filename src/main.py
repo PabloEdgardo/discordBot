@@ -66,4 +66,4 @@ async def boa_noite():
     canal = bot.get_channel(1432174543543468123)
     await canal.send("boa noite")
     
-bot.run("MTQzMjA5MDcwNDgxMjk3MDAzNA.GgUNwc.r4ifyg-wQRZjrT5UH1x3XmMVn8a5bgorv-ROmw")
+bot.run("ID do bot")
